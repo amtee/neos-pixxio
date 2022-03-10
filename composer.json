@@ -6,7 +6,7 @@
     "require": {
         "neos/flow": "6.* || 7.* || dev-master",
         "neos/media": "5.* || 6.* || 7.* || dev-master",
-        "guzzlehttp/guzzle": "6.*",
+        "guzzlehttp/guzzle": "6.* || 7.*",
         "behat/transliterator": "~1.0"
     },
     "autoload": {
